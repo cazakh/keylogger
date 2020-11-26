@@ -25,3 +25,4 @@ Will be added soon:
   Sorting logs by WALLETS, logins and passwords.
   C++ scrypt to install python + pypnput.keyboard + loading latest keylogger version from GitHub
   Adds proxy (i down know why you will need it :)  )
+#ONLY FOR EDUCATIONAL PURPOSES!
